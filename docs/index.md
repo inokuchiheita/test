@@ -10,4 +10,4 @@
 
  [yahoo](https://www.google.co.jp/) 
 
-[testページ](./test.md) 
+[testページ](./test.html) 
